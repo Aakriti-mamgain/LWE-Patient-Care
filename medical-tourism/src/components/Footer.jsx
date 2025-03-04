@@ -43,7 +43,7 @@ const Footer = () => {
               <span className="font-semibold">Head Office:</span> 1102, Samdariya Green City, Jabalpur, MP
             </p>
             <p className="text-gray-400 text-sm mt-2">
-              <span className="font-semibold">Chhattisgarh Branch:</span> Ambikapur, Chhattisgarh, India
+              <span className="font-semibold">Our Branch:</span> Ambikapur, Chhattisgarh, Pune, jaipur, Jabalpur, India
             </p>
           </div>
 
